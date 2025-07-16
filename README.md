@@ -1,31 +1,25 @@
 # Java-based-Simple-Calculator
-A basic calculator GUI application built using Java Swing. It provides a graphical interface for performing arithmetic operations like addition, subtraction, multiplication, and division.
+📌 Description:-
+- A basic calculator GUI application built using Java Swing. It provides a graphical interface for performing arithmetic operations like addition, subtraction, multiplication, and division.
 
-REPOSITORY STRUCTURE:-
+📁REPOSITORY STRUCTURE:-
 1. Main class: Calculator.java
 2. No external dependencies
 3. GUI built using Java Swing components (JFrame, JTextField, JButtons, etc.)
 
-FEATURES:- 
+💻FEATURES:- 
+- User Interface is built with Java Swing GUI components
+- Arithmetic Operations	supported are addition, subtraction, multiplication, division
+- Button Layout are	Numeric (0–9), operations (+, −, ×, ÷), clear, etc.
+- Backspace / Clear and delete functionality included
+- Window Customization for basic styling and resizing of window
 
-User Interface is built with Java Swing GUI components
+⚙️TECHNOLOGIES USED:-
+1. Java -- Core language,
+2. Swing -- GUI framework for interface,
+3. AWT -- For basic UI layout handling
 
-Arithmetic Operations	supported are addition, subtraction, multiplication, division
-
-Button Layout are	Numeric (0–9), operations (+, −, ×, ÷), clear, etc.
-
-Backspace / Clear and delete functionality included
-
-Window Customization for basic styling and resizing of window
-
-
-TECHNOLOGIES USED:-
-
-Java -- Core language,
-Swing -- GUI framework for interface, 
-AWT -- For basic UI layout handling
-
-STRENGTHS:-
+✅STRENGTHS:-
 - Uses only Core Java, so it’s lightweight
 - No setup needed – just compile and run Calculator.java
 - Good example of Java Swing GUI development
